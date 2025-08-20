@@ -4603,7 +4603,7 @@ const studentData = [
     "gioi tinh": "Nữ",
     "Dan tộc": "Lào",
     "Lớp năm học 2024-2025": "11B6",
-    "Lớp năm học 2025-2026": "12B5"
+    "Lớp năm học 2025-2026": "12B6"
   },
   {
     "Họ và tên": "HÀNG A TRỪ",
@@ -5608,3 +5608,4 @@ const studentData = [
   }
 
 ];
+
