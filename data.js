@@ -4260,14 +4260,14 @@ const studentData = [
     "gioi tinh": "Nam",
     "Dan tộc": "Thái",
     "Lớp năm học 2024-2025": "11B4",
-    "Lớp năm học 2025-2026": "12B5"
+    "Lớp năm học 2025-2026": "12B4"
   },
   {
     "Họ và tên": "NGÔ THẾ DƯƠNG",
     "gioi tinh": "Nam",
     "Dan tộc": "Kinh",
     "Lớp năm học 2024-2025": "11B4",
-    "Lớp năm học 2025-2026": "12B5"
+    "Lớp năm học 2025-2026": "12B4"
   },
   {
     "Họ và tên": "TÒNG THỊ HÀ LINH",
@@ -4344,14 +4344,14 @@ const studentData = [
     "gioi tinh": "Nữ",
     "Dan tộc": "HMông",
     "Lớp năm học 2024-2025": "11B5",
-    "Lớp năm học 2025-2026": "12B4"
+    "Lớp năm học 2025-2026": "12B5"
   },
   {
     "Họ và tên": "VÌ DƯƠNG THIÊN",
     "gioi tinh": "Nam",
     "Dan tộc": "Thái",
     "Lớp năm học 2024-2025": "11B5",
-    "Lớp năm học 2025-2026": "12B4"
+    "Lớp năm học 2025-2026": "12B5"
   },
   {
     "Họ và tên": "LÒ THỊ LÂM",
@@ -4512,7 +4512,7 @@ const studentData = [
     "gioi tinh": "Nam",
     "Dan tộc": "Thái",
     "Lớp năm học 2024-2025": "11B5",
-    "Lớp năm học 2025-2026": "12B5"
+    "Lớp năm học 2025-2026": "12B6"
   },
   {
     "Họ và tên": "LÒ THỊ THU",
@@ -4610,7 +4610,7 @@ const studentData = [
     "gioi tinh": "Nam",
     "Dan tộc": "HMông",
     "Lớp năm học 2024-2025": "11B6",
-    "Lớp năm học 2025-2026": "12B6"
+    "Lớp năm học 2025-2026": "12B5"
   },
   {
     "Họ và tên": "TÒNG VĂN HÙNG",
@@ -4638,7 +4638,7 @@ const studentData = [
     "gioi tinh": "Nam",
     "Dan tộc": "Thái",
     "Lớp năm học 2024-2025": "11B6",
-    "Lớp năm học 2025-2026": "12B6"
+    "Lớp năm học 2025-2026": "12B5"
   },
   {
     "Họ và tên": "LÒ QUỐC QUYỀN",
@@ -5058,21 +5058,21 @@ const studentData = [
     "gioi tinh": "Nữ",
     "Dan tộc": "Thái",
     "Lớp năm học 2024-2025": "11B7",
-    "Lớp năm học 2025-2026": "12B8"
+    "Lớp năm học 2025-2026": "12B7"
   },
   {
     "Họ và tên": "VÀNG THÚY VÂN",
     "gioi tinh": "Nữ",
     "Dan tộc": "HMông",
     "Lớp năm học 2024-2025": "11B7",
-    "Lớp năm học 2025-2026": "12B8"
+    "Lớp năm học 2025-2026": "12B7"
   },
   {
     "Họ và tên": "TÒNG THỊ XINH",
     "gioi tinh": "Nữ",
     "Dan tộc": "Thái",
     "Lớp năm học 2024-2025": "11B7",
-    "Lớp năm học 2025-2026": "12B8"
+    "Lớp năm học 2025-2026": "12B7"
   },
   {
     "Họ và tên": "VÌ THỊ HẠNH",
@@ -5170,7 +5170,7 @@ const studentData = [
     "gioi tinh": "Nam",
     "Dan tộc": "HMông",
     "Lớp năm học 2024-2025": "11B8",
-    "Lớp năm học 2025-2026": "12B7"
+    "Lớp năm học 2025-2026": "12B8"
   },
   {
     "Họ và tên": "GIÀNG A LY",
@@ -5184,14 +5184,14 @@ const studentData = [
     "gioi tinh": "Nam",
     "Dan tộc": "HMông",
     "Lớp năm học 2024-2025": "11B8",
-    "Lớp năm học 2025-2026": "12B7"
+    "Lớp năm học 2025-2026": "12B8"
   },
   {
     "Họ và tên": "SỘNG A TỘNG",
     "gioi tinh": "Nam",
     "Dan tộc": "HMông",
     "Lớp năm học 2024-2025": "11B8",
-    "Lớp năm học 2025-2026": "12B7"
+    "Lớp năm học 2025-2026": "12B8"
   },
   {
     "Họ và tên": "GIÀNG A LY",
@@ -5608,4 +5608,5 @@ const studentData = [
   }
 
 ];
+
 
